@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Supervisor on My New Hugo Site</title>
+    <link>http://chenxue3/github.io/supervisor/</link>
+    <description>Recent content in Supervisor on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Oct 2021 16:43:21 +0800</lastBuildDate><atom:link href="http://chenxue3/github.io/supervisor/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
