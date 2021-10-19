@@ -1,23 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Project Information on My New Hugo Site</title>
+    <title>Project Information on Documentation for Hugo Learn Theme</title>
     <link>https://matou886.github.io/</link>
-    <description>Recent content in Project Information on My New Hugo Site</description>
+    <description>Recent content in Project Information on Documentation for Hugo Learn Theme</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-US</language>
     <lastBuildDate>Mon, 18 Oct 2021 16:32:55 +0800</lastBuildDate><atom:link href="https://matou886.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>QiwenWang</title>
+      <title>Haocheng Lei</title>
+      <link>https://matou886.github.io/teammember/haochenglei/</link>
+      <pubDate>Mon, 18 Oct 2021 22:34:04 +0800</pubDate>
+      
+      <guid>https://matou886.github.io/teammember/haochenglei/</guid>
+      <description>ssyhl2@nottingham.edu.cn
+Ningbo, China
+EXPERIENCE   User Centric Computing Group Undergraduate Research Assistant Under the environment of Internet of vehicles, explore the practicability of differential privacy in deep learning model January 2020 to July 2021
+  University of Nottingham Ningbo China Undergraduate Research Assistant Working with Prof. Bellotti, investigate and expand a new Inductive Conformal Predictor (i.e. a reliable machine learning algorithm) April 2021 to October 2021
+  University of Nottingham Ningbo China Undergraduate Research Assistant Working with Prof.</description>
+    </item>
+    
+    <item>
+      <title>Jialue Xu</title>
+      <link>https://matou886.github.io/teammember/jialuexu/</link>
+      <pubDate>Mon, 18 Oct 2021 22:34:29 +0800</pubDate>
+      
+      <guid>https://matou886.github.io/teammember/jialuexu/</guid>
+      <description>scyjx3@nottingham.edu.com
+198 8300 2436
+Ningbo, China
+EXPERIENCE    University of Nottingham Ningbo China
+Undergraduate Research Assistant
+Build enquiry support heuristics with user interface for the FOSE faculty.
+January 2020 to July 2021
+  University of Nottingham Ningbo China
+Undergraduate Research Assistant
+Build a model that is able to detect fraud within companies.
+June 2021 onward
+  PROJECTS    Faculty Reception Enquiry Support Heuristics
+This project is basically to provide enquiry machine with user interface.</description>
+    </item>
+    
+    <item>
+      <title>Qiwen Wang</title>
       <link>https://matou886.github.io/teammember/qiwenwang/</link>
       <pubDate>Mon, 18 Oct 2021 22:35:52 +0800</pubDate>
       
       <guid>https://matou886.github.io/teammember/qiwenwang/</guid>
-      <description></description>
+      <description>scyqw5@nottingham.edu.cn
++8615925947446
+Ningbo, China
+ EXPERIENCE   ALLLINK Company
+Software Engineer
+co-developer of developing user interface and building APIs to interact with database
+December 2019 - July 2021
+  Chunjin Company
+Intern of front end development and back end development
+co-implementor of an application for trading and logistics transportation, including developing user interface and APIs.
+July 2021 - September 2021
+   EDUCATION   Year 3 undergraduate of Computer Science</description>
     </item>
     
     <item>
-      <title>RuyuanZou</title>
+      <title>Ruyuan Zou</title>
       <link>https://matou886.github.io/teammember/ruyuanzou/</link>
       <pubDate>Mon, 18 Oct 2021 22:35:42 +0800</pubDate>
       
@@ -38,34 +83,21 @@ University of Nottingham Ningbo China</description>
     </item>
     
     <item>
-      <title>JialueXu</title>
-      <link>https://matou886.github.io/teammember/jialuexu/</link>
-      <pubDate>Mon, 18 Oct 2021 22:34:29 +0800</pubDate>
-      
-      <guid>https://matou886.github.io/teammember/jialuexu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>XueshanChen</title>
+      <title>Xueshan Chen</title>
       <link>https://matou886.github.io/teammember/xueshanchen/</link>
       <pubDate>Mon, 18 Oct 2021 22:34:13 +0800</pubDate>
       
       <guid>https://matou886.github.io/teammember/xueshanchen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Haocheng Lei</title>
-      <link>https://matou886.github.io/teammember/haochenglei/</link>
-      <pubDate>Mon, 18 Oct 2021 22:34:04 +0800</pubDate>
-      
-      <guid>https://matou886.github.io/teammember/haochenglei/</guid>
-      <description>ssyhl2@nottingham.edu.cn
+      <description>scyxc3@nottingham.edu.cn ·
++86 138 8722 7838
 Ningbo, China
-EXPERIENCE   User Centric Computing Group Undergraduate Research Assistant Under the environment of Internet of vehicles, explore the practicability of differential privacy in deep learning model January 2020 to July 2021
-  University of Nottingham Ningbo China Undergraduate Research Assistant Working with Prof. Bellotti, investigate and expand a new Inductive Conformal Predictor (i.e. a reliable machine learning algorithm) April 2021 to October 2021
-  University of Nottingham Ningbo China Undergraduate Research Assistant Working with Prof.</description>
+ EXPERIENCE   Jumbox
+Front End Engineer - Ningbo
+Developing and maintaining Wechat mini programs and web pages. I had developed a mini program called ”banana”, which once had more than 2000 users.
+October 2020 to February 2021
+  M5
+Front End Engineer - Ningbo
+Maintaining back-management system and develop an online mall system. Write back-end code using framework ”Spring Boot”, complete front and back end alignment and iteration of products.</description>
     </item>
     
   </channel>
