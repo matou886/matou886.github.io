@@ -1,62 +1,62 @@
 [
 {
-	"uri": "http://cslinux.nottingham.edu.cn/teammember/haochenglei/",
+	"uri": "http://cslinux.nottingham.edu.cn/teammember/haochenglei.html",
 	"title": "Haocheng Lei",
 	"tags": [],
 	"description": "",
 	"content": "ssyhl2@nottingham.edu.cn\nNingbo, China\nEXPERIENCE   User Centric Computing Group Undergraduate Research Assistant Under the environment of Internet of vehicles, explore the practicability of differential privacy in deep learning model January 2020 to July 2021\n  University of Nottingham Ningbo China Undergraduate Research Assistant Working with Prof. Bellotti, investigate and expand a new Inductive Conformal Predictor (i.e. a reliable machine learning algorithm) April 2021 to October 2021\n  University of Nottingham Ningbo China Undergraduate Research Assistant Working with Prof. Kam, use machine learning techniques and Bayesian estimation method to find a better chemical model for predicting the organics’ heat capacity September 2021 onward\n  Hefei University of Technology Research Assistant Explore the application of multimodal deep learning in emotion recognition August 2021 onward\n  EDUCATION   Computer Science with Artificial Intelligence\nUniversity of Nottingham Ningbo China\n  SKILLS   Technologies\nPython, C, Tensorflow, Keras, PyTorch, Hakell, R, Java, JavaScript, HTML, css, SQLite 3, Pandas, Matplotlib, YOLO4, PyMc3, Tensorflow Lite,\n  Patterns \u0026amp; Practices\nObject Oriented Programming, Functional Programming\n  RESEARCH INTERESTS ​\tComputer vision, Object detection, Emotion Recognition, Neural Networks, Conformal Prediction, Reinforcement Learning.\nPROJECTS   Optimized-Conformal-Predictor [researchgate.net]\nConformal predictors (CP) are machine learning algorithms that output prediction sets, rather than point predic\u0002tions. I use R language to build up a new CP algorithm and combining it with Polynomial Regression and Neural Networks. All algorithms (including Adam and rmsprop optimizer) are built from the bottom without using any library. In the later stage, to speed up the training process, pytorch is used. R, Python, PyTorch\n  Heat Capacity Fitting\nThe aim of the project is to obtain a more reliable chemical model for predicting the specific heat capacity of organic matter at different temperatures, and gradient descent (based on PyTorch) as well as Bayesian parameter estimation (based on Pymc3 package) are used. As the only student majored in Computer Science, I almost did all the coding, including data cleaning, model optimization, and model verification. Python, Pandas, Matplotlib, Pymc3, PyTorch\n  Multimodal Emotion Recognition\nThis project is supported by National Natural Science Foundation of China, and the project code is 61672202. In this Project, Multimodal data (i.e. face recording, speech data, skin conductivity) are used to analyze human emotional state, and the technologies involved are deep learning, face recognition and speech recognition. PyTorch and Yolov5 are used throughout the project. I cooperate with Dr. Shipiao. She is responsible for finding useful papers and providing ideas, while I’m responsible for all the coding and implementation. Python, PyTorch, OpenCV, Yolov5\n  Application of multimodal deep learning model in Internet of vehicles\nWe use Keras and Tensorflow to build a deep learning model that can use the driver’s facial recording to predict the speed, heartbeat and other data. In order to solve the privacy and security problem of driver’s information, I built a differential privacy framework with Python to protect the whole database. Python, Keras, Tensorflow\n  OTHER HIGHLIGHTS  Served as the leader of the reception team in Ningbo International Education Week, successfully received international students from other schools, director of Ningbo Education Bureau and director of Ningbo Foreign Affairs Office. Was nominated by superviser to be excellent researcher in the summer research project (FURP), and be invited to share research experience on the FOSE official account. Won the third place in the school badminton men’s singles competition.  "
 },
 {
-	"uri": "http://cslinux.nottingham.edu.cn/teammember/jialuexu/",
+	"uri": "http://cslinux.nottingham.edu.cn/teammember/jialuexu.html",
 	"title": "Jialue Xu",
 	"tags": [],
 	"description": "",
 	"content": "scyjx3@nottingham.edu.com\n198 8300 2436\nNingbo, China\nEXPERIENCE    University of Nottingham Ningbo China\nUndergraduate Research Assistant\nBuild enquiry support heuristics with user interface for the FOSE faculty.\nJanuary 2020 to July 2021\n  University of Nottingham Ningbo China\nUndergraduate Research Assistant\nBuild a model that is able to detect fraud within companies.\nJune 2021 onward\n  PROJECTS    Faculty Reception Enquiry Support Heuristics\nThis project is basically to provide enquiry machine with user interface. I played two important roles in the project. Lead Developer - Build BERT model to apply text classification. User’s enquiry are classified into 11 groups. Accuracy over 95 percent is attained. Lead Data Scientist – Analyse collected data and build the dataset for training and testing. Add several level of noises to the dataset to see if the model is robust enough.\npython, bash\n  Chinese Corporate Fraud Detection with Machine Learning\nThis project is to develop mechanisms to determines whether a company involves fraud. I played two important roles in the project. Lead Developer - Apply XGBoost model to classify corporate to fraud and non\u0002fraud two types. Achieve best performance among all methods applied (SVM, GAN with encoder, one-class). Lead Data Scientist – Conduct feature analysis in the project. Decide the importance of features in dataset to seek improvement.\npython\n   EDUCATION   Year 3 undergraduate of Computer Science\nUniversity of Nottingham Ningbo China\npresent\n   SKILLS   Technologies\npython, Java, C++, haskell, Ruby, Tensorflow, YOLOv5, sklearn, pytorch, tesseract, opencv, Keras, html, css, JavaScript, JavaFX\n  Patterns \u0026amp; Practices\nObject Oriented Programming, Functional Program\u0002ming, Linux\n  Project Management\nAgile, Scrum, Waterfall\n  OTHER HIGHLIGHTS   Was director of planning department in UNNC Psychology\nAssociation, led several psychological care activities like Mr.Listener, psychodrama competition.\n  Won the second place of ratiocination competition held by UNNC.\n  INTERESTS   optical character recognition\n  natural language processing\n  computer vision\n  game design\n  open source\n  "
 },
 {
-	"uri": "http://cslinux.nottingham.edu.cn/teammember/qiwenwang/",
+	"uri": "http://cslinux.nottingham.edu.cn/teammember/qiwenwang.html",
 	"title": "Qiwen Wang",
 	"tags": [],
 	"description": "",
 	"content": "scyqw5@nottingham.edu.cn\n+8615925947446\nNingbo, China\n EXPERIENCE   ALLLINK Company\nSoftware Engineer\nco-developer of developing user interface and building APIs to interact with database\nDecember 2019 - July 2021\n  Chunjin Company\nIntern of front end development and back end development\nco-implementor of an application for trading and logistics transportation, including developing user interface and APIs.\nJuly 2021 - September 2021\n   EDUCATION   Year 3 undergraduate of Computer Science\nUniversity of Nottingham Ningbo China\n  SKILLS\n  Technologies\njava, C, python, javascript, Vue, Uniapp, nodejs, express, haskell, machine language\n  Patterns \u0026amp; Practices\nObject Oriented Programming, Functional Programming\n  Project Management\nAgile, Scrum, Git\n   PROJECTS   Alllink\nA weixin mini application which is used as a campus forum. During my time in Alllink, I cooperate with uidesigners and product manager to develop user interface. Also, I provided APIs to other front end developers to enable them to interact with database.\nhtml, css, js, nodejs\n  Dierhuihe\nAn application and a weixin mini application for Commodity trading. During this two-month internship, I participated in the software development as a formal developer, including attending symposiums, requirements checking, code review and so on.\nuniapp, java spring\n   OTHER HIGHLIGHTS   The application, AllLink, which I participated in as a co-developer, has been widely used in fifive universities with more than 20000 users and made a profifit.\n  Participate a project using Agile and develop requirements and release versions based on development cycle independently.\n  Participated in the student union and organized many activities(e.g., X-SHOW, 5-th, store promotions.)\n   HOBBIES \u0026amp; INTERESTS   Problem Solving\n  Healthcare\n  Algorithm Learning\n  Learn new technologies\n  "
 },
 {
-	"uri": "http://cslinux.nottingham.edu.cn/teammember/ruyuanzou/",
+	"uri": "http://cslinux.nottingham.edu.cn/teammember/ruyuanzou.html",
 	"title": "Ruyuan Zou",
 	"tags": [],
 	"description": "",
 	"content": "scyrz4@nottingham.edu.cn\n+86 15163119251\nNingbo, China\nEXPERIENCE   University of Nottingham Ningbo China\nUndergraduate Research Assistant\nGenerate a Visualization Toolkit for Editing 3D Clustered Graphs.\nJune 2021 to September 2021.\n  SKILLS   Technologies\nPython, C, C++, js, ts, java, MIPS, Haskell, assembly language\n  Patterns \u0026amp; Practices\nObject Oriented Programming, Functional Programming\n  PROJECT   undergraduate. Computer Science with Artificial Intelligence\nUniversity of Nottingham Ningbo China\n2019 onwards\n  OTHER HIGHLIGHTS   As team leader to lead freshmen in 2020.\n  Take part in the information technology department in a student club. Generate several Wechat tweets and receive much attention.\n  EDUCATION   Undergraduate\nComputer Science with Artificial Intelligence\nUniversity of Nottingham Ningbo China 2019 onwards\n  HOBBIES \u0026amp; INTERESTS  Love solving problems. Internet of vehicles Machine learning Software engineering  "
 },
 {
-	"uri": "http://cslinux.nottingham.edu.cn/teammember/xueshanchen/",
+	"uri": "http://cslinux.nottingham.edu.cn/teammember/xueshanchen.html",
 	"title": "Xueshan Chen",
 	"tags": [],
 	"description": "",
 	"content": "scyxc3@nottingham.edu.cn ·\n+86 138 8722 7838\nNingbo, China\n EXPERIENCE   Jumbox\nFront End Engineer - Ningbo\nDeveloping and maintaining Wechat mini programs and web pages. I had developed a mini program called ”banana”, which once had more than 2000 users.\nOctober 2020 to February 2021\n  M5\nFront End Engineer - Ningbo\nMaintaining back-management system and develop an online mall system. Write back-end code using framework ”Spring Boot”, complete front and back end alignment and iteration of products.\nFebruary 2021 to August 2021\n   EDUCATION   Computer Science\n​\tUniversity of Nottingham, Ningbo, China\n​\t2023\n   INTERESTS  Interested in the field of artificial intelligence and machine learning, Want to make life more intelligent through programming Enjoy the process of solving problems. Try to learn new technologies like openCV and some new Python libraries like Pandas to help me.   SKILLS   Technologies\nJAVA, Python, C, JavaScript, VUE, uni-app, C++, HTML, CSS, Haskell\n  Patterns \u0026amp; Practices\nObject Oriented Programming, Functional Programming\n  Project Management\nGit\n   PROJECTS   Banana\nA small game used by the Relaxation Day, over 2000 users, I wrote codes and used Canvas to draw posters, which plays an important role in user growth, made this program really help students to relax themselves during exam weeks.\nHTML, CSS, JavaScript, Vue(uni-app)\n  Canteen\nAn online mall system used by a canteen, offer take-out service.I developed the front end part, and also help the back-end engineers to write some test codes, made front and back work together successfully.\nHTML, CSS, JavaScript, Vue(uni-app), Java, SpringBoot\n   OTHER HIGHLIGHTS   As a volunteer Mentor at TEACH GIRLS CODING, help girls to learn Python and help them implement simple web crawlers.\n  Under the impact of the epidemic,as one coordinator, leading volunteers successfully completed the university enrollment campaign in 2020.\n  "
 },
 {
-	"uri": "http://cslinux.nottingham.edu.cn/progress/",
+	"uri": "http://cslinux.nottingham.edu.cn/progress.html",
 	"title": "Progress",
 	"tags": [],
 	"description": "",
 	"content": "Current statement: Finish proposal The Time Plan\n"
 },
 {
-	"uri": "http://cslinux.nottingham.edu.cn/convenor/",
+	"uri": "http://cslinux.nottingham.edu.cn/convenor.html",
 	"title": "Convenor",
 	"tags": [],
 	"description": "",
 	"content": "Dave Towey Professor, Deputy Head of School, Deputy Director of IDIC Computer Science / Faculty of Science and Engineering  Contact  Office: Room 333, Sir Peter Mansfield Building Campus: University of Nottingham Ningbo China Address: 199 Taikang East Road, Ningbo, 315100, China Telephone: +86 574 8818 0000(ext 9014) Email: Dave.Towey@nottingham.edu.cn   More  reaserch gate moodle page  "
 },
 {
-	"uri": "http://cslinux.nottingham.edu.cn/supervisor/",
+	"uri": "http://cslinux.nottingham.edu.cn/supervisor.html",
 	"title": "Supervisor",
 	"tags": [],
 	"description": "",
 	"content": "Anthony Bellotti Associate Professor Computer Science / Faculty of Science and Engineering  Contact  Office: PMB 419, Sir Peter Mansfield Building Campus: University of Nottingham Ningbo China Address: 199 Taikang East Road, Ningbo, 315100, China Telephone: +86(0)574 88180000-8264 Email: Anthony-Graham.Bellotti@nottingham.edu.cn   More  moodle page research gate  "
 },
 {
-	"uri": "http://cslinux.nottingham.edu.cn/teammember/",
+	"uri": "http://cslinux.nottingham.edu.cn/teammember.html",
 	"title": "Team Members",
 	"tags": [],
 	"description": "",
@@ -70,21 +70,21 @@
 	"content": "TEAM 17  Project Machine Learning Development Checklist Software Supervisor Anthony Bellotti Team Members HaoCheng Lei (20216373) Jialue Xu (20215547) Qiwen Wang(20215787) Ruyuan Zou(20216918) Xueshan Chen(20216479) Current statement Finish proposal "
 },
 {
-	"uri": "http://cslinux.nottingham.edu.cn/project-information/",
+	"uri": "http://cslinux.nottingham.edu.cn/project-information.html",
 	"title": "Project Information",
 	"tags": [],
 	"description": "",
 	"content": "Machine Learning Development Checklist Software Requirements This project requires the development and delivery of a user‑friendly application that implements a machine learning development checklist that will assist practitioners and academics implement high‑quality and validated machine learning systems.\nBackground In many professions there are clear steps to achieve successful results. We know what needs to be done to complete tasks correctly. However, in all professions, errors still occur. A large source of these errors is due to professionals forgetting, overlooking or under‑estimating standard procedures. It has been proposed that adopting a checklist procedure is an excellent way to avoid these errors. In his book Checklist Manifesto, surgeon Atul Gawande argues about how checklists can be used in many professions. With a special focus on the medical profession, he shows how using checklists can save lives by addressing human fallibility and avoiding simple errors. In machine learning development there are also standard steps required to get a machine learning system working correctly and to ensure it is validated correctly. Development methodologies such as CRISP‑DM have been around for a long time and several authors have proposed systematic approaches to machine learning development. However, these steps are routinely ignored, overlooked or implemented incorrectly. There is room for development of checklist software that will aid academics and professionals in developing good quality machine learning software.\nOutline This project aims to develop a software package to implement a checklist for use as part of machine learning development. Although a checklist could be a simple set of actions that need to be ticked off one by one, in this project more complex actions will need to be expressed in the software:‑\n(1) Branches when different checklist actions are required for different types of problem; e.g. the\ndifference between supervised and unsupervised machine learning will require some different validation actions.\n(2) Measurements will need to be entered into the system, related to the machine learning algorithm performance.\n(3) Some actions further along the list may be dependent on responses at previous steps\n(e.g. matching measured performance against objectives). Prof. Dave Towey School of Computer Science 10GRP Project Catalogue 2021‑2022 14th September 2021\n(4) Customizable options will need to be accepted to allow for special requirements for different machine learning applications.\n(5) Generation of a validation certificate at the final completion stage. The development of machine learning checklist software will greatly help practitioners and academics working in this area.\nTasks \u0026amp; Deliverables This is a software development task, not a machine learning research project!\nFor background information, please see:‑\n  Checklist Manifesto by Atul Gawande\n  Data Science for Business by Tom Fawcett and Foster Provost (2013)\n  How to avoid machine learning pitfalls: a guide for academic researchers (2021), Michael A.Lones; arxiv.org/abs/2108.02497\n  Validate AI; validateai.org\n   "
 },
 {
-	"uri": "http://cslinux.nottingham.edu.cn/categories/",
+	"uri": "http://cslinux.nottingham.edu.cn/categories.html",
 	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "http://cslinux.nottingham.edu.cn/tags/",
+	"uri": "http://cslinux.nottingham.edu.cn/tags.html",
 	"title": "Tags",
 	"tags": [],
 	"description": "",
