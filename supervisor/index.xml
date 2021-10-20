@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Supervisor on Documentation for Hugo Learn Theme</title>
-    <link>http://cslinux.nottingham.edu.cn/~Team202117/index.html/supervisor.html</link>
+    <link>http://cslinux.nottingham.edu.cn/supervisor.html</link>
     <description>Recent content in Supervisor on Documentation for Hugo Learn Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 18 Oct 2021 16:43:21 +0800</lastBuildDate><atom:link href="http://cslinux.nottingham.edu.cn/~Team202117/index.html/supervisor/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Oct 2021 16:43:21 +0800</lastBuildDate><atom:link href="http://cslinux.nottingham.edu.cn/supervisor/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
