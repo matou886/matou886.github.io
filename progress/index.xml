@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Progress on Documentation for Hugo Learn Theme</title>
-    <link>https://matou886.github.io/progress/</link>
+    <link>http://cslinux.nottingham.edu.cn/~Team202117/index.html/progress/</link>
     <description>Recent content in Progress on Documentation for Hugo Learn Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 19 Oct 2021 19:16:06 +0800</lastBuildDate><atom:link href="https://matou886.github.io/progress/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Oct 2021 19:16:06 +0800</lastBuildDate><atom:link href="http://cslinux.nottingham.edu.cn/~Team202117/index.html/progress/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
