@@ -100,14 +100,5 @@ Front End Engineer - Ningbo
 Maintaining back-management system and develop an online mall system. Write back-end code using framework ”Spring Boot”, complete front and back end alignment and iteration of products.</description>
     </item>
     
-    <item>
-      <title>Running Guide</title>
-      <link>https://matou886.github.io/instruction/intro.html</link>
-      <pubDate>Tue, 05 Apr 2022 11:40:42 +0800</pubDate>
-      
-      <guid>https://matou886.github.io/instruction/intro.html</guid>
-      <description>Download and unzip the compressed package. Download MongoDB, MongoDB Tools and MongoDB Campass, install MongoDB and MongoDB Tools in the same path. (e.g., C:\Program Files\MongoDB). Open MongoDB Campass, click Connect to create a new database, and create a new database named it checkmaster.  Open the command prompt as administrator, enter the path of the MongoDB Tools, then run following commands:  mongoimport -d checkmaster -c nodes [node.dat] mongoimport -d checkmaster -c projects [project.</description>
-    </item>
-    
   </channel>
 </rss>
