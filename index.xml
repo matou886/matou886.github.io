@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Project Information on Documentation for Hugo Learn Theme</title>
-    <link>http://cslinux.nottingham.edu.cn/</link>
+    <link>https://matou886.github.io/</link>
     <description>Recent content in Project Information on Documentation for Hugo Learn Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 18 Oct 2021 16:32:55 +0800</lastBuildDate><atom:link href="http://cslinux.nottingham.edu.cn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Oct 2021 16:32:55 +0800</lastBuildDate><atom:link href="https://matou886.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Haocheng Lei</title>
-      <link>http://cslinux.nottingham.edu.cn/teammember/haochenglei.html</link>
+      <link>https://matou886.github.io/teammember/haochenglei.html</link>
       <pubDate>Mon, 18 Oct 2021 22:34:04 +0800</pubDate>
       
-      <guid>http://cslinux.nottingham.edu.cn/teammember/haochenglei.html</guid>
+      <guid>https://matou886.github.io/teammember/haochenglei.html</guid>
       <description>ssyhl2@nottingham.edu.cn
 Ningbo, China
 EXPERIENCE   User Centric Computing Group Undergraduate Research Assistant Under the environment of Internet of vehicles, explore the practicability of differential privacy in deep learning model January 2020 to July 2021
@@ -22,10 +22,10 @@ EXPERIENCE   User Centric Computing Group Undergraduate Research Assistant Under
     
     <item>
       <title>Jialue Xu</title>
-      <link>http://cslinux.nottingham.edu.cn/teammember/jialuexu.html</link>
+      <link>https://matou886.github.io/teammember/jialuexu.html</link>
       <pubDate>Mon, 18 Oct 2021 22:34:29 +0800</pubDate>
       
-      <guid>http://cslinux.nottingham.edu.cn/teammember/jialuexu.html</guid>
+      <guid>https://matou886.github.io/teammember/jialuexu.html</guid>
       <description>scyjx3@nottingham.edu.com
 198 8300 2436
 Ningbo, China
@@ -43,10 +43,10 @@ This project is basically to provide enquiry machine with user interface.</descr
     
     <item>
       <title>Qiwen Wang</title>
-      <link>http://cslinux.nottingham.edu.cn/teammember/qiwenwang.html</link>
+      <link>https://matou886.github.io/teammember/qiwenwang.html</link>
       <pubDate>Mon, 18 Oct 2021 22:35:52 +0800</pubDate>
       
-      <guid>http://cslinux.nottingham.edu.cn/teammember/qiwenwang.html</guid>
+      <guid>https://matou886.github.io/teammember/qiwenwang.html</guid>
       <description>scyqw5@nottingham.edu.cn
 +8615925947446
 Ningbo, China
@@ -63,10 +63,10 @@ July 2021 - September 2021
     
     <item>
       <title>Ruyuan Zou</title>
-      <link>http://cslinux.nottingham.edu.cn/teammember/ruyuanzou.html</link>
+      <link>https://matou886.github.io/teammember/ruyuanzou.html</link>
       <pubDate>Mon, 18 Oct 2021 22:35:42 +0800</pubDate>
       
-      <guid>http://cslinux.nottingham.edu.cn/teammember/ruyuanzou.html</guid>
+      <guid>https://matou886.github.io/teammember/ruyuanzou.html</guid>
       <description>scyrz4@nottingham.edu.cn
 +86 15163119251
 Ningbo, China
@@ -84,10 +84,10 @@ University of Nottingham Ningbo China</description>
     
     <item>
       <title>Xueshan Chen</title>
-      <link>http://cslinux.nottingham.edu.cn/teammember/xueshanchen.html</link>
+      <link>https://matou886.github.io/teammember/xueshanchen.html</link>
       <pubDate>Mon, 18 Oct 2021 22:34:13 +0800</pubDate>
       
-      <guid>http://cslinux.nottingham.edu.cn/teammember/xueshanchen.html</guid>
+      <guid>https://matou886.github.io/teammember/xueshanchen.html</guid>
       <description>scyxc3@nottingham.edu.cn ·
 +86 138 8722 7838
 Ningbo, China
@@ -98,6 +98,15 @@ October 2020 to February 2021
   M5
 Front End Engineer - Ningbo
 Maintaining back-management system and develop an online mall system. Write back-end code using framework ”Spring Boot”, complete front and back end alignment and iteration of products.</description>
+    </item>
+    
+    <item>
+      <title>Running Guide</title>
+      <link>https://matou886.github.io/instruction/intro.html</link>
+      <pubDate>Tue, 05 Apr 2022 11:40:42 +0800</pubDate>
+      
+      <guid>https://matou886.github.io/instruction/intro.html</guid>
+      <description>Download and unzip the compressed package. Download MongoDB, MongoDB Tools and MongoDB Campass, install MongoDB and MongoDB Tools in the same path. (e.g., C:\Program Files\MongoDB). Open MongoDB Campass, click Connect to create a new database, and create a new database named it checkmaster.  Open the command prompt as administrator, enter the path of the MongoDB Tools, then run following commands:  mongoimport -d checkmaster -c nodes [node.dat] mongoimport -d checkmaster -c projects [project.</description>
     </item>
     
   </channel>
